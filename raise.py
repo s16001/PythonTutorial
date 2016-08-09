@@ -1,0 +1,2 @@
+raise NameError('HiThere')
+Traceback
